@@ -1,6 +1,6 @@
 英雄无敌7.5 MOD 最新版本中文文件（测试）<br>
 使用方式：直接使用CODE按钮下的Download Zip<br>
-然后解压缩，打开主文件夹，将Might & Magic Heroes VII文件夹复制到通用游戏目录下（对win11而言，通常位于文档/My Games）<br>
+然后解压缩，打开主文件夹，将Might & Magic Heroes VII文件夹复制到系统My Games文件夹目录下（对win11而言，通常位于文档/My Games）<br>
 请注意对比文件路径，确保正确覆盖原文件。<br>
 我已经设置好了文件结构，通常只要在你找的的目录下看到“Might & Magic Heroes VII”文件夹，直接用解压得到的文件夹覆盖即可。<br>
 
