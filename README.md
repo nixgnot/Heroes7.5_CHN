@@ -6,11 +6,11 @@
 根据提示安装即可。通常全自动即可完成安装。
 
 发现问题请及时反馈！尤其是术语不匹配和语句不通顺等问题。<br>
-
 最新汉化及问题反馈请前往 https://github.com/nixgnot/Heroes7.5_CHN<br>
 （如果访问github有困难可以安装Steamcommunity 302 https://www.dogfight360.com/blog/18682/）<br>
 MOD下载请直接前往 https://www.moddb.com/mods/heroes-of-might-and-magic-75<br>
+原MOD已经包含本汉化，但是会落后一个版本。如果发现汉化缺失，请下载本地最新文件尝试！
 
 某些机器上安装程序会提示风险，请自行判断<br>
 
-2025.12.1 初版发布，匹配版本1.41
+2026.11.26 匹配版本1.45
